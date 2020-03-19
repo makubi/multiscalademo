@@ -11,7 +11,7 @@
             <outputDirectory>/de.kaufhof.ess.itgr.simplelogger.thirdpartylibs/</outputDirectory>
             <useProjectArtifact>false</useProjectArtifact>
             <unpack>true</unpack>
-            <scope>runtime</scope>
+            <scope>provided</scope>
         </dependencySet>
         <dependencySet>
             <outputDirectory>/</outputDirectory>
